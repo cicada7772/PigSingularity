@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pigsingularity",
+  "name": "Pig Singularity",
+  "description": "I wanted the bane of pigs so i made a mod this is a cry for help im dying inside.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Timmy_C137"],
+  "credits": "Timmy_C137, my chronic brain damage,",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
